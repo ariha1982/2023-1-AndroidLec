@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_item_landmark.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/item_landmark.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineairport.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineairport.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/xml_settings.xml.flat",
+        "source": "com.example.subeye.app-main-62:/xml/settings.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linegyeongui.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linegyeongui.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line5.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line5.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_mic_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_mic_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linewestsea.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linewestsea.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linegimpo.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linegimpo.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/menu_menu_main.xml.flat",
+        "source": "com.example.subeye.app-main-62:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_splash_back.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/splash_back.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineyongin.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineyongin.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line1.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line1.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_item_route.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/item_route.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_ic_subway_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/ic_subway_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.subeye.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineincheon2.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineincheon2.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line8.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line8.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_activity_rsetting.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/activity_rsetting.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_fragment_settings.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line6.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line6.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linesb.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linesb.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line2.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line2.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_activity_auth.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line9.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line9.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_keyboard_double_arrow_right_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_keyboard_double_arrow_right_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linegyeongchun.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linegyeongchun.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line7.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line7.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineincheon1.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineincheon1.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linenewb.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linenewb.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/menu_nav_bottom.xml.flat",
+        "source": "com.example.subeye.app-main-62:/menu/nav_bottom.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_library_books_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_library_books_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line3.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line3.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_fragment_memo.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_memo.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_fragment_route.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_route.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_subeye.png.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/subeye.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_item_memo.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/item_memo.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.subeye.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineuijeongbu.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineuijeongbu.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_activity_add.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/activity_add.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_linegyeonggang.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/linegyeonggang.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_lineui.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/lineui.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_line4.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/line4.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_baseline_location_on_24.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/drawable_splash.xml.flat",
+        "source": "com.example.subeye.app-main-62:/drawable/splash.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.subeye.app-main-62:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.subeye.app-merged_res-60:/layout_fragment_landmark.xml.flat",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_landmark.xml"
+    }
+]

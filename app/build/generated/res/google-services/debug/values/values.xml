@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">484554411159-p9e5hkfo2i7d7mt3pb3q7bavbm4iri3a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">484554411159</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaBbw9rCkaTEphy8mfJILKGHbt6cq6-Q8</string>
+    <string name="google_app_id" translatable="false">1:484554411159:android:5b815cab4e3e2d97d7add2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaBbw9rCkaTEphy8mfJILKGHbt6cq6-Q8</string>
+    <string name="google_storage_bucket" translatable="false">subeye-155eb.appspot.com</string>
+    <string name="project_id" translatable="false">subeye-155eb</string>
+</resources>

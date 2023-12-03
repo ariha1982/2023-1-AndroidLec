@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484554411159",
+    "project_id": "subeye-155eb",
+    "storage_bucket": "subeye-155eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484554411159:android:5b815cab4e3e2d97d7add2",
+        "android_client_info": {
+          "package_name": "com.example.subeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484554411159-p9e5hkfo2i7d7mt3pb3q7bavbm4iri3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBbw9rCkaTEphy8mfJILKGHbt6cq6-Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484554411159-p9e5hkfo2i7d7mt3pb3q7bavbm4iri3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

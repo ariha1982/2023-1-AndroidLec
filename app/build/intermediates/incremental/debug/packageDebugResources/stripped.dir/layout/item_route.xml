@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="15dp">
+
+    <ImageView
+        android:id="@+id/after_STT_trasfer_line_img"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:adjustViewBounds="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_subway_24"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/after_STT_stationId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MTRS11133"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#4c4c4c" />
+        <TextView
+            android:id="@+id/after_STT_stationNm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="역사명"
+            android:textColor="#4c4c4c"
+            android:textSize="15dp"/>
+        <TextView
+            android:id="@+id/after_STT_lineNm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="n호선"
+            android:textColor="#4c4c4c"
+            android:textSize="15dp"/>
+    </LinearLayout>
+</LinearLayout>

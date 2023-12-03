@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/callLandmarkBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#9fd3aa"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="지하철역 정보 불러오기" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/landmarkList"
+        android:textColor="#4c4c4c"
+        android:textSize="15sp"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:id="@+id/btnGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#9fd3aa"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:text="갤러리" />
+
+    <ImageView
+        android:id="@+id/addImageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"/>
+
+    <EditText
+        android:id="@+id/addEditTitleView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="제목을 입력해 주세요"
+        android:gravity="left|top"/>
+
+    <EditText
+        android:id="@+id/addEditView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:hint="내용 입력해 주세요"
+        android:gravity="left"/>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#a7c0e0"
+        android:text="저장" />
+
+</LinearLayout>

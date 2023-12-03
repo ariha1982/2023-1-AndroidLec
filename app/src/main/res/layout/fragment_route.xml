@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RouteFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/before_STT"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/before_STT_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="지하철역 음성 인식"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="3dp"/>
+
+        <TextView
+            android:id="@+id/before_STT_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="버튼을 누르고 검색하고자 하는 역사명을 말해주세요."
+            android:textSize="15dp"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:id="@+id/before_STT_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#a7c0e0"
+            android:text="역사명 인식"
+            android:textStyle="bold"
+            android:textSize="50dp"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/afterSTT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:padding="10dp"
+        android:visibility="gone">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/after_STT_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="역사 ID 검색 결과"
+                android:textSize="20dp"
+                android:textColor="#4c4c4c"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginRight="140dp"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="재검색"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:backgroundTint="#a7c0e0"
+                android:id="@+id/restartBtn" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/after_STT_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="검색 결과를 잘 듣고 필요한 역사코드를 기억해주세요."
+            android:textSize="15sp"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="35dp"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/routeRecycler"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/save_stationId_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="역사 ID 저장하기"
+            android:textSize="20dp"
+            android:textColor="#4c4c4c"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="140dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/save_stationId_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="버튼을 눌러 주변 시설 검색에 사용될 역사 ID를 말해주세요."
+            android:textSize="15sp"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:text="지하철역 이름 저장"
+            android:textSize="18dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:backgroundTint="#a7c0e0"
+            android:id="@+id/saveStationId" />
+    </LinearLayout>
+
+</FrameLayout>

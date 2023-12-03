@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/item_route.xml",
+        "source": "com.example.subeye.app-main-62:/layout/item_route.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/activity_auth.xml",
+        "source": "com.example.subeye.app-main-62:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/fragment_memo.xml",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_memo.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/item_landmark.xml",
+        "source": "com.example.subeye.app-main-62:/layout/item_landmark.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/fragment_landmark.xml",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_landmark.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.example.subeye.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/activity_add.xml",
+        "source": "com.example.subeye.app-main-62:/layout/activity_add.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/item_memo.xml",
+        "source": "com.example.subeye.app-main-62:/layout/item_memo.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/fragment_route.xml",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_route.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/fragment_settings.xml",
+        "source": "com.example.subeye.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.subeye.app-mergeDebugResources-59:/layout/activity_rsetting.xml",
+        "source": "com.example.subeye.app-main-62:/layout/activity_rsetting.xml"
+    }
+]

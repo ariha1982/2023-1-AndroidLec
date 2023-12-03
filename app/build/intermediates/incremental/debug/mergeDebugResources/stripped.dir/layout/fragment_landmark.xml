@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LandmarkFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/before_STT2"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/before_STT2_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="지하철역 ID 음성 인식"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="3dp"/>
+
+        <TextView
+            android:id="@+id/before_STT2_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="버튼을 누르고 검색하고자 하는 역의 ID를 말해주세요."
+            android:textSize="15dp"
+            android:textColor="#4c4c4c"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:id="@+id/before_STT2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#a7c0e0"
+            android:text="역 ID 인식"
+            android:textStyle="bold"
+            android:textSize="50dp"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/afterSTT2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:padding="10dp"
+        android:visibility="gone">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="25dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/after_STT2_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="주요시설 검색 결과"
+                android:textSize="20dp"
+                android:textColor="#4c4c4c"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginRight="115dp"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="재검색"
+                android:textSize="18dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:backgroundTint="#a7c0e0"
+                android:id="@+id/restartBtn2" />
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/landmarkRecycler"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

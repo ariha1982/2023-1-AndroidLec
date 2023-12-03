@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SubEye</string>
+    <string name="title_route">길 안내</string>
+    <string name="title_memo">메모</string>
+    <string name="title_setting">설정</string>
+    <string name="title_landmark">주요시설</string>
+    <string name="title_login">로그인</string>
+
+    <string name="auth_join">회원가입</string>
+    <string name="auth_login">로그인</string>
+    <string name="auth_logout">로그아웃</string>
+    <string name="auth_google">구글 로그인</string>
+    <string name="auth_kakao">카카오 로그인</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
